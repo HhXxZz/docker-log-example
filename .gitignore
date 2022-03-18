@@ -1,0 +1,10 @@
+.settings
+.idea
+.mvn
+mvnw
+mvnw.cmd
+target
+.idea
+.classpath
+.project
+*.iml
